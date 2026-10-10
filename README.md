@@ -1,13 +1,13 @@
 ## Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=thewatcherbgk&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewatcherbgk&layout=compact&theme=radical" alt="Top Languages" height="170" />
-<!--
+<  <!--
 **thewatcherbgk/thewatcherbgk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on python programming , for intelligent use to deploy functioning projects      
+- 🌱 I’m currently learning html, css,javasript, C, C++ , MySQL
 - 👯 I’m looking to collaborate on ...  
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
