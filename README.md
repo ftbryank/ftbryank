@@ -29,7 +29,7 @@ Hello, world! I'm **Brian Kihika**, an aspiring Software Engineer passionate abo
 
 I enjoy building web applications, exploring artificial intelligence, automating tasks, and understanding how applications interact with networks and real-world systems.
 
-- 🎓 **Education:** [Your degree], [Your university].
+- 🎓 **Education:** [Computer Science], [Muranga University].
 - 💻 **Development Focus:** Web development, backend systems, and software engineering.
 - 🐍 **Currently Learning:** Python, backend development, and practical software engineering.
 - 🤖 **AI & Automation:** Exploring AI integrations, APIs, and intelligent applications.
