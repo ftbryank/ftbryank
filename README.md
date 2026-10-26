@@ -4,7 +4,7 @@
 
   ### BUILD. LEARN. SHARE.
 
-  **[Your Course or Role] @ [Your University or Company]**
+  **[COMPUTER SCIENCE] @ [MURANG'A UNIVERISITY OF TECHNOLOGY]**
 
   *Building practical software solutions through code, creativity, and continuous learning.*
 
