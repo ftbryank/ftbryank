@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ### BUILD. LEARN. SHARE.
+  ### BUILD. LEARN. INNOVATE.
 
   **[COMPUTER SCIENCE] @ [MURANG'A UNIVERISITY OF TECHNOLOGY]**
 
@@ -35,7 +35,7 @@ I enjoy building web applications, exploring artificial intelligence, automating
 - 🤖 **AI & Automation:** Exploring AI integrations, APIs, and intelligent applications.
 - 🌐 **Infrastructure:** Networking, system administration, and connectivity solutions.
 - 🎯 **Mission:** Build useful technology, solve real problems, and grow through consistent practice.
-- 📍 **Location:** [Your location].
+- 📍 **Location:** [MURANG'A, RUIRU].
 
 > *I believe the best way to become a better developer is to keep building, keep learning, and keep sharing.*
 
@@ -81,21 +81,8 @@ I enjoy building web applications, exploring artificial intelligence, automating
 
 <!-- Copy and edit this block for each project you want to feature. -->
 
-### 🔧 [Project Name]
 
-*[One-line description of what the project does.]*
 
-- **Goal:** [What problem it solves or what you wanted to explore.]
-- **Technologies:** [e.g. Python, Flask, MySQL]
-- **Link:** [Repository or live demo URL]
-
-### 🔧 [Project Name]
-
-*[One-line description of what the project does.]*
-
-- **Goal:** [What problem it solves or what you wanted to explore.]
-- **Technologies:** [e.g. JavaScript, HTML, CSS]
-- **Link:** [Repository or live demo URL]
 
 🔗 Explore more projects on **[GitHub](https://github.com/ftbryank)**.
 
@@ -117,13 +104,7 @@ I enjoy building web applications, exploring artificial intelligence, automating
 
 ---
 
-## 🎓 Certifications & Learning
 
-- 🎓 **[Certification name]:** [Issuer, year, or "In progress"].
-- 🎓 **[Certification name]:** [Issuer, year, or "In progress"].
-- 📚 Continuously developing practical skills through coursework, experimentation, and hands-on projects.
-
----
 
 ## 🤝 Let's Connect
 
