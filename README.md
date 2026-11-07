@@ -15,6 +15,9 @@
     <a href="mailto:briankihika00@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://your-website-link-here.com">
+      <img src="https://img.shields.io/badge/Website-Visit_My_Website-0F9D8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website" />
+    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=ftbryank&style=flat-square&color=62E6C8&label=PROFILE+VIEWS" alt="Profile Views" />
