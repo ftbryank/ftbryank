@@ -4,7 +4,7 @@
 
   ### BUILD. LEARN. INNOVATE.
 
-  **[COMPUTER SCIENCE] @ [MURANG'A UNIVERISITY OF TECHNOLOGY]**
+  **Computer Science @ Murang'a University of Technology**
 
   *Building practical software solutions through code, creativity, and continuous learning.*
 
@@ -29,13 +29,14 @@ Hello, world! I'm **Brian Kihika**, an aspiring Software Engineer passionate abo
 
 I enjoy building web applications, exploring artificial intelligence, automating tasks, and understanding how applications interact with networks and real-world systems.
 
-- 🎓 **Education:** [Computer Science], [Muranga University].
-- 💻 **Development Focus:** Web development, backend systems, and software engineering.
-- 🐍 **Currently Learning:** Python, backend development, and practical software engineering.
-- 🤖 **AI & Automation:** Exploring AI integrations, APIs, and intelligent applications.
-- 🌐 **Infrastructure:** Networking, system administration, and connectivity solutions.
-- 🎯 **Mission:** Build useful technology, solve real problems, and grow through consistent practice.
-- 📍 **Location:** [MURANG'A, RUIRU].
+- 🎓 **Education:** Computer Science, Murang'a University of Technology
+- 💻 **Development Focus:** Web development, backend systems, and software engineering
+- 🌱 **Currently Learning:** Python, HTML, CSS, JavaScript, C, C++, MySQL, and practical software engineering
+- 🔭 **Currently Working On:** Python projects that put intelligent features into real, working deployments
+- 🤖 **AI & Automation:** Exploring AI integrations, APIs, and intelligent applications
+- 🌐 **Infrastructure:** Networking, system administration, and connectivity solutions
+- 🎯 **Mission:** Build useful technology, solve real problems, and grow through consistent practice
+- 📍 **Location:** Murang'a, Ruiru, Kenya
 
 > *I believe the best way to become a better developer is to keep building, keep learning, and keep sharing.*
 
@@ -55,6 +56,8 @@ I enjoy building web applications, exploring artificial intelligence, automating
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
@@ -79,12 +82,16 @@ I enjoy building web applications, exploring artificial intelligence, automating
 
 ## 🚀 Featured Projects
 
-<!-- Copy and edit this block for each project you want to feature. -->
+Featured projects are coming soon. In the meantime, you can browse everything I'm working on over on **[GitHub](https://github.com/ftbryank)**.
 
+<!--
+Template for each project (copy, paste and fill in):
 
-
-
-🔗 Explore more projects on **[GitHub](https://github.com/ftbryank)**.
+### 🔹 Project Name
+Short description of what it does and why you built it.
+**Tech:** Python · MySQL · HTML/CSS
+[View Code](https://github.com/ftbryank/repo-name) · [Live Demo](https://your-demo-link.vercel.app)
+-->
 
 ---
 
@@ -103,8 +110,6 @@ I enjoy building web applications, exploring artificial intelligence, automating
 </div>
 
 ---
-
-
 
 ## 🤝 Let's Connect
 
@@ -128,49 +133,10 @@ I'm interested in connecting with fellow developers, learning from experienced e
 
   ### 💡 BUILD. LEARN. SHARE.
 
-  *"The best way to predict the future is to invent it."*
+  *"The best way to predict the future is to invent it." — Alan Kay*
 
   **Thanks for visiting my digital workspace!** 🚀
 
   <sub>Learning today. Building tomorrow. Improving with every commit.</sub>
 
 </div>
-    </p>
-    # 🚀 Brian Kihika | Software Developer
-
-<div align="center">
-
-  ### BUILD. LEARN. INNOVATE.
-
-  **[COMPUTER SCIENCE] @ [MURANG'A UNIVERSITY OF TECHNOLOGY]**
-
-  *Building practical software solutions through code, creativity, and continuous learning.*
-
-  <p>
-    <a href="https://www.linkedin.com/in/brian-kihika-a5193336b">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:briankihika@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="tel:0117437421">
-      <img src="https://img.shields.io/badge/Phone-0117437421-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=ftbryank&style=flat-square&color=62E6C8&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-  <  <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on python programming , for intelligent use to deploy functioning projects      
-- 🌱 I’m currently learning html, css,javasript, C, C++ , MySQL
-- 👯 I’m looking to collaborate on ...  
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
