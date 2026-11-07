@@ -15,7 +15,7 @@
     <a href="mailto:briankihika00@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://https://ftbryank.github.io/my-portfolio/">
+    <a href="https://ftbryank.github.io/my-portfolio/">
       <img src="https://img.shields.io/badge/Website-Visit_My_Website-0F9D8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my website" />
     </a>
   </p>
@@ -40,6 +40,7 @@ I enjoy building web applications, exploring artificial intelligence, automating
 - 🌐 **Infrastructure:** Networking, system administration, and connectivity solutions
 - 🎯 **Mission:** Build useful technology, solve real problems, and grow through consistent practice
 - 📍 **Location:** Murang'a, Ruiru, Kenya
+- 🔗 **Portfolio:** [ftbryank.github.io/my-portfolio](https://ftbryank.github.io/my-portfolio/)
 
 > *I believe the best way to become a better developer is to keep building, keep learning, and keep sharing.*
 
@@ -85,7 +86,7 @@ I enjoy building web applications, exploring artificial intelligence, automating
 
 ## 🚀 Featured Projects
 
-Featured projects are coming soon. In the meantime, you can browse everything I'm working on over on **[GitHub](https://github.com/ftbryank)**.
+Featured projects are coming soon. In the meantime, you can browse everything I'm working on over on **[GitHub](https://github.com/ftbryank)**, or see my **[portfolio website](https://ftbryank.github.io/my-portfolio/)**.
 
 <!--
 Template for each project (copy, paste and fill in):
@@ -121,6 +122,9 @@ I'm interested in connecting with fellow developers, learning from experienced e
 <p align="center">
   <a href="https://github.com/ftbryank">
     <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ftbryank.github.io/my-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Website-0F9D8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" />
   </a>
   <a href="https://www.linkedin.com/in/brian-kihika-a5193336b">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
